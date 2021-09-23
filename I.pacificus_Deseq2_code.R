@@ -13,7 +13,7 @@
 ################################################## user input #############################################################
 getwd()
 # path to working directrory, which should include a directory `counts_for_deseq` that includes raw counts files
-mappingDir <- '/Users/annesapiro/Desktop/test'
+mappingDir <- '/Users/kaciering/Desktop/'
 # point to directory with raw read counts, in this case called `counts_for_deseq`
 quantDir <- file.path(mappingDir, 'Bloodmeal_quants')
 
